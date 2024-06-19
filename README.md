@@ -10,9 +10,53 @@ Answer the following questions based on your understanding of the installation a
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
+**ANSWER**
+
+1 Download the Installer:
+Open your favorite web browser and navigate to the official VS Code download page: https://code.visualstudio.com/download
+Look for the Download for Windows section.
+Click the button that says Download (it might specify 64-bit for Windows 11). This will download the VS Code installer (VSCodeUserSetup-{version}.exe).
+
+2 Run the Installer:
+Once the download is complete, locate the downloaded file (VSCodeUserSetup-{version}.exe) in your Downloads folder (or wherever your browser saves files).
+Double-click the downloaded installer file.
+
+3 Installation Process:
+The VS Code setup window will appear. You'll see the license agreement.
+Carefully review the license agreement.
+Agreeing with the terms, select the checkbox and click "Continue".
+
+4 Choose Installation Location (Optional):
+By default, VS Code will install in the following location:
+C:\Users\<username>\AppData\Local\Programs\Microsoft VS Code
+Click "Next".
+
+5 Create a Start Menu Folder (Optional):
+You can choose a folder within the Start Menu where you want a VS Code shortcut to be placed.
+By default, it will create a shortcut in the main Start Menu folder.
+You can change this if you prefer or leave it as is. Click "Next".
+
+6 Ready to Install:
+You'll see a summary of your installation choices.
+Review everything and click "Install" to begin the installation process.
+
+7 Wait for Installation:
+The installation might take a few minutes depending on your internet speed and system configuration.
+
+8 Launch VS Code (Optional):
+After successful installation, you'll be presented with an option to launch VS Code directly.
+You can check the box "Run Visual Studio Code" and click "Finish" to open VS Code immediately.
+If you prefer to launch it later, simply click "Finish".
+
+9 Find VS Code:
+You can find VS Code in two ways:
+Look for the shortcut icon that was created in your chosen Start Menu folder (if you chose to create one).
+Search for "VS Code" in the Windows search bar.
+
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
 
++
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
 
